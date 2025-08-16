@@ -1,6 +1,10 @@
 # legacy-launch-pads
 For Mindustry versions newer than v146: advanced launch pads and landing pads are replaced by the v146 launch pad. 
 
+# Downloading
+Download ZIP. I don't really care to add this to the mod browser right now. 
+
+# FAQ
 > **Why isn't this a part of the base game or a PR?**
 
 Anuke didn't implement it. I'm not going to tell him to, and I can't do it myself since I don't know how to add UI buttons. 
