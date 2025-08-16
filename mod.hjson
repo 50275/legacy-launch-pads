@@ -1,0 +1,9 @@
+name: "legacy-launch-pads"
+displayName: "Legacy Launch Pads"
+author: "50275"
+description: "For Mindustry versions newer than v146: advanced launch pads and landing pads are replaced by the v146 launch pad."
+subtitle: "Restores the v146 launch pad."
+version: "2025-08-15(1)"
+minGameVersion: 147
+hidden: false
+repo: "50275/legacy-launch-pads"
