@@ -18,7 +18,4 @@ It’s a design choice in vanilla. This mod just provides an alternative.
 The mod relies on setting a campaign rule (Planets.serpulo.campaignRules.legacyLaunchPads = true), which isn’t doable with HJSON-only mods.
 
 **How do I unlock the launch pad?**
-It becomes available after researching the advanced launch pad. The cost is currently 1 copper.
-
-**Why was it flagged as a virus before?**
-Some antivirus software may misidentify the mod ZIP because it contains JavaScript. The contents are safe and limited to Mindustry’s modding environment.
+It becomes available after researching the advanced launch pad. The cost is currently 1 copper. 
