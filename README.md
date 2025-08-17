@@ -9,13 +9,16 @@ If this mod isn't in the mod browser, Code -> Download ZIP.
 # FAQ
 
 **Can this mod break saves? How exactly does this mod affect my game?**
-No, this mod only makes launch pads behave like they do in V7. You can remove this mod from your game at any time without consequences. 
-
-**Why isn’t this in the base game or a PR?**
-It’s a design choice in vanilla. This mod just provides an alternative.
+No, you can remove this mod from your game at any time without consequences. Your legacy launch pads will then work just like advanced launch pads. 
 
 **Why isn’t/won’t this be on iOS?**
-The mod relies on setting a campaign rule (Planets.serpulo.campaignRules.legacyLaunchPads = true), which isn’t doable with HJSON-only mods.
+This mod uses features unable to HJSON. There are no workarounds. 
 
 **How do I unlock the launch pad?**
-It becomes available after researching the advanced launch pad. The cost is currently 1 copper. 
+It's unlocked with the advanced launch pad. 
+
+**Why isn't it multiplayer compatible?**
+This mod will cause desync. This problem can't be fixed. 
+
+**Why isn’t this in the base game or a PR?**
+This is much easier. 
