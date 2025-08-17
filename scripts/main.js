@@ -8,9 +8,3 @@ Events.on(ContentInitEvent, e => {
     var cost = ItemStack.empty;  
     var node = new TechTree.TechNode(parent, content, cost); 
 });
-
-/*
-Events.on(WorldLoadEndEvent, e => {
-    Planets.serpulo.campaignRules.legacyLaunchPads = Vars.state.isCampaign();
-}); 
-*/
