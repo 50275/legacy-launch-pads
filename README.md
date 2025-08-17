@@ -1,28 +1,24 @@
 # legacy-launch-pads
-A mindustry mod for Mindustry versions newer than v146: advanced launch pads and landing pads are replaced by the v146 launch pad. 
 
-# Downloading
-Download ZIP. I don't really care to add this to the mod browser right now. 
+A mod for Mindustry versions newer than v146/v7. Not available on iOS. It restores the older v146/v7 launch pad behavior. 
+
+# Installation
+
+If this mod isn't in the mod browser, Code -> Download ZIP. 
 
 # FAQ
-> **Why isn't this a part of the base game or a PR?**
 
-Anuke didn't implement it. I'm not going to tell him to, and I can't do it myself since I don't know how to add UI buttons. 
+> **Can this mod break saves? How exactly does this mod affect my game?**
+> No. This mod will disable landing pads and make launch pads (including advanced launch pads) behave like they do in v146/v7 (add resources directly to core). Disabling this mod will restore v8 launch pad behavior. 
 
-> **Why isn't/won't this be on IOS?**
+> **Why isn’t this in the base game or a PR?**
+> It’s a design choice in vanilla. This mod just provides an alternative.
 
-This mod depends on the following gamerule: `Planets.serpulo.campaignRules.legacyLaunchPads = true;` and I don't know how to do this in HJSON. 
+> **Why isn’t/won’t this be on iOS?**
+> The mod relies on setting a campaign rule (Planets.serpulo.campaignRules.legacyLaunchPads = true), which isn’t doable with HJSON-only mods.
 
-> **How do I get launch pads with this mod?**
+How do I unlock the launch pad?
+It becomes available after researching the advanced launch pad. The cost is currently 1 copper.
 
-It's unlocked after the advanced launch pad and costs 1 copper. Could it be done better? Yes. Will it be done better? I don't think so. 
-
-> **Why did you make this?**
-
-Because people kept complaining in channels that I use. It's disruptive and this is my best solution. 
-
-> **Why is it being flagged as a virus?**
-
-I don't know.
-
-To be clear I don't plan to play the campaign nor use this mod while doing so.
+Why was it flagged as a virus before?
+Some antivirus software may misidentify the mod ZIP because it contains JavaScript. The contents are safe and limited to Mindustry’s modding environment.
