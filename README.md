@@ -1,5 +1,5 @@
 # legacy-launch-pads
-For Mindustry versions newer than v146: advanced launch pads and landing pads are replaced by the v146 launch pad. 
+A mindustry mod for Mindustry versions newer than v146: advanced launch pads and landing pads are replaced by the v146 launch pad. 
 
 # Downloading
 Download ZIP. I don't really care to add this to the mod browser right now. 
