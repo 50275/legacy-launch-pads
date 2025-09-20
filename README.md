@@ -1,4 +1,4 @@
-# legacy-launch-pads
+# [legacy-launch-pads](<https://github.com/50275/legacy-launch-pads/tree/main>)
 
 A mod for Mindustry versions newer than v146/v7. Not available on iOS. It restores the older v146/v7 launch pad behavior. 
 
