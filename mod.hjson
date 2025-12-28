@@ -7,3 +7,4 @@ version: "2025-08-17"
 minGameVersion: 147
 hidden: false
 repo: "50275/legacy-launch-pads"
+iosCompatible: true
