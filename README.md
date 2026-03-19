@@ -9,7 +9,7 @@ If this mod isn't in the mod browser, Code -> Download ZIP.
 # FAQ
 
 **Can this mod break saves? How exactly does this mod affect my game?**
-No, you can remove this mod from your game at any time without consequences. Your legacy launch pads will then work just like advanced launch pads. *However*, you should still make a backup of your game data (Mindustry -> Settings -> Game Data -> Export Data) before using any mod, including this one. I am not responsible for lost game data. 
+No, you can remove this mod from your game at any time. You will then need to run the following console command: `Planets.serpulo.campaignRules.legacyLaunchPads = false;`. Your legacy launch pads will then work just like advanced launch pads. *However*, you should still make a backup of your game data (Mindustry -> Settings -> Game Data -> Export Data) before using any mod, including this one. I am not responsible for lost game data. 
 
 **Why isn’t/won’t this be on iOS?**
 This mod uses features unable to HJSON. There are no workarounds. 
